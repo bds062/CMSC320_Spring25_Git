@@ -9,3 +9,7 @@ Answer: Data science can be applied to an evolution/ecology field in many ways. 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: While merging helps with version control because all branches are saved in history, rebasing turns a new branch into the root, rewriting history and erasing some versions.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I really enjoy my genetics class, and I'm excited to learn data science methodologies I can use in my biology based research.
