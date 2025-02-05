@@ -5,3 +5,7 @@ Answer: Git can help backup important files and data along with making collabora
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to an evolution/ecology field in many ways. An example could be using data science to filter bird calls in the wild to identify the species of bird making that call.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: While merging helps with version control because all branches are saved in history, rebasing turns a new branch into the root, rewriting history and erasing some versions.
