@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to an evolution/ecology field in many ways. An example could be using data science to filter bird calls in the wild to identify the species of bird making that call.
