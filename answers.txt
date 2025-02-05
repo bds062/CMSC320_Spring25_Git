@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: Git can help backup important files and data along with making collaboration and version control far easier. 
